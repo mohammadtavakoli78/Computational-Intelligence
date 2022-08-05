@@ -7,6 +7,7 @@
 
 ## Introduction
 At This Project we ```Classify Six Fruits``` with the help of ```Nueral Networks```. I implemented ```Back Propagation``` and ```Feed Forward``` and cost functions like: ```SoftMax```, ```relu```, ```tanh``` without the help of libraries.<br>
+
 Dataset is in this [link](https://github.com/mohammadtavakoli78/Computational-Intelligence/tree/master/Project%201%20(Neural%20Networks%20-%20Classifying%20Fruits)/Datasets/Fruits-360)<br>
 
 This is accuracy of the trained model:<br><br>
