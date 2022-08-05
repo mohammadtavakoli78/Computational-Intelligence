@@ -7,6 +7,7 @@
 
 ## Introduction
 At this project we should play a game name ```Snail Jumper``` with the help of ```Evolutionary Algorithms```<br>
+First i implemented a Neural Network to make Snail learn the obstacles and then i select next population with ```QTournament```, ```SUS```, ```Roulette Wheel``` algorithms and then i generate new population with ```QTournament```, ```SUS```, ```Roulette Wheel``` algorithms.
 
 This is run of the project<br><br>
 ![](https://github.com/mohammadtavakoli78/Computational-Intelligence/blob/master/Project%203%20(Neuroevolution%20Game%20-%20SnailJ%20umper)/run.PNG)<br>
