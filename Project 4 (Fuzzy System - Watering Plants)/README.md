@@ -7,6 +7,7 @@
 
 ## Introduction
 At this project we should manage a ```Watering Plants System``` with the help of ```Fuzzy System```.<br>
+First i ```fuzzify``` the values and then i ```inference``` with [rules](https://github.com/mohammadtavakoli78/Computational-Intelligence/blob/master/Project%204%20(Fuzzy%20System%20-%20Watering%20Plants)/rules.ru) and then ```defuzzify``` the output with integral.
 
 This is run of the project<br><br>
 ![](https://github.com/mohammadtavakoli78/Computational-Intelligence/blob/master/Project%204%20(Fuzzy%20System%20-%20Watering%20Plants)/image/1.PNG)<br>
