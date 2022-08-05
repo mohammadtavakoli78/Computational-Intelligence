@@ -7,6 +7,7 @@
 
 ## Introduction
 At This Project we should balance ```Inverted Pendulum``` with the help of ```Fuzzy System```.<br>
+First i ```fuzzify``` the values and then i ```inference``` with [rules](https://github.com/mohammadtavakoli78/Computational-Intelligence/blob/master/Project%202%20(Fuzzy%20System%20-%20Inverted%20Pendulum)/rules2.txt) and then ```defuzzify``` the output with integral.
 
 This is run of the project<br><br>
 ![](https://github.com/mohammadtavakoli78/Computational-Intelligence/blob/master/Project%202%20(Fuzzy%20System%20-%20Inverted%20Pendulum)/run.gif)<br>
