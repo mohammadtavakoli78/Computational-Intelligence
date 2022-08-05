@@ -11,7 +11,7 @@ At this project we should play a game name ```Snail Jumper``` with the help of `
 This is run of the project<br><br>
 ![](https://github.com/mohammadtavakoli78/Computational-Intelligence/blob/master/Project%203%20(Neuroevolution%20Game%20-%20SnailJ%20umper)/run.PNG)<br>
 
-This is run of the project<br><br>
+This is run of the game<br><br>
 ![](https://github.com/mohammadtavakoli78/Computational-Intelligence/blob/master/Project%203%20(Neuroevolution%20Game%20-%20SnailJ%20umper)/run.gif)<br>
 
 ## Technologies
